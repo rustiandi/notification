@@ -1,22 +1,22 @@
 # 🔔 Notification Library (CSS & JS)
 
 Library sederhana untuk menampilkan **notifikasi custom** menggunakan CSS & JavaScript.  
-Cocok untuk project web tanpa harus pakai library besar.
+Cocok dipakai di project web tanpa perlu library besar.
 
 ---
 
-## Atau via CDN (GitHub Pages / jsDelivr)
+## 🚀 Demo
+👉 [Live Demo](https://username.github.io/notification-library/demo.html)  
+*(aktif kalau sudah setup GitHub Pages)*
+
+---
+
+## 📦 Install / CDN
+
+### GitHub Pages
+```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rustiandi/notification/css/notification.css"> <br>
 <script src="https://cdn.jsdelivr.net/gh/rustiandi/notification/js/notification.js"></script>
 
----
 
-## 📂 Struktur Folder
-notification-library/ <br>
-│── css/<br>
-│ └── notification.css<br>
-│── js/<br>
-│ └── notification.js<br>
-│── demo.html<br>
-│── README.md<br>
 
