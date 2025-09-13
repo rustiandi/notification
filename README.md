@@ -6,7 +6,7 @@ Cocok untuk project web tanpa harus pakai library besar.
 ---
 
 ## Atau via CDN (GitHub Pages / jsDelivr)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rustiandi/notification/css/notification.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rustiandi/notification/css/notification.css"> <br>
 <script src="https://cdn.jsdelivr.net/gh/rustiandi/notification/js/notification.js"></script>
 
 ---
