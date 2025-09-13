@@ -5,18 +5,18 @@ Cocok untuk project web tanpa harus pakai library besar.
 
 ---
 
-## 🚀 Demo
-👉 [Live Demo](https://username.github.io/notification-library/demo.html)  
-*(aktif kalau sudah setup GitHub Pages)*
+## Atau via CDN (GitHub Pages / jsDelivr)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rustiandi/notification/css/notification.css">
+<script src="https://cdn.jsdelivr.net/gh/rustiandi/notification/js/notification.js"></script>
 
 ---
 
 ## 📂 Struktur Folder
-notification-library/
-│── css/
-│ └── notification.css
-│── js/
-│ └── notification.js
-│── demo.html
-│── README.md
+notification-library/ <br>
+│── css/<br>
+│ └── notification.css<br>
+│── js/<br>
+│ └── notification.js<br>
+│── demo.html<br>
+│── README.md<br>
 
